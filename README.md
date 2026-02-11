@@ -24,7 +24,7 @@ console.log(card, '\n', set)
 This will output:
 ```bash
 {
-  number: '4532355776740539',
+  number: '6037997319007705',
   expiry: { month: '01', year: '27' },
   cvv2: '510'
 } 
